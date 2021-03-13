@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/daisaja/example_ruby_project_layout.svg?branch=main)](https://travis-ci.org/daisaja/example_ruby_project_layout)
 
 Project layout  
 .  
